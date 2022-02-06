@@ -1,0 +1,27 @@
+h1 {
+    font-family: 'Ubuntu Mono', monospace;
+    color: #534b4b;
+    text-align: center
+}
+
+P {
+    font-family: 'Fira Sans', sans-serif;
+    color: #534b4b;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(120, 1, 167);
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+#day4 {
+    color: #132b75;
+    font-weight: bold;
+    font-size: 42px;
+    font-family: sans-serif;
+}
