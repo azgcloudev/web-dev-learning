@@ -46,3 +46,5 @@ spliceArray.splice(2, 4, "ii", "iv", "v", "vi");
 // multi dimensional arrays
 let multiArray = [1, 2, ["i", "ii", "iii", ["a", "b", "c", "d"]], 3, 4];
 console.log(multiArray[2][3][3]);
+
+console.log("Good bye Arrays.")
