@@ -79,3 +79,14 @@ const squareArea = 56 * 2;
 
 /* COMPARISON OPERATORS */
 // > < >= <= == != === !==
+
+
+
+
+
+/* if statements */
+let rating = 6;
+
+if (rating === 6) {
+    console.log("rating is six")
+}
